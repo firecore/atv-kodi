@@ -8,6 +8,8 @@ https://support.firecore.com/hc/en-us/articles/215090917-Installing-aTV-Flash-ko
 Community support forum
 https://community.firecore.com/c/legacy/1st-gen-apple-tv/5
 
+Copyright © 2015-2016 Firecore, LLC. All rights reserved.
+
 ## Release notes
 
 1.1 Feb-17-2016
